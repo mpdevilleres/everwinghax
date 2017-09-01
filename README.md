@@ -10,17 +10,13 @@
 - clone this repo
 - install dependencies in requirements.txt
 - run the code
-
-
+```
     python main.py 
-
-or 
-   
+or
     python main.py -uid 123456789
-
+```
 - Answer the following questions
-
-
+```
     Please enter your uid: 1234567890
     Do want to unlock all and max out your characters? [y/N]: Y
     Do want to max out your currencies? [y/N]: y
@@ -29,6 +25,7 @@ or
     You have chosen the following function/s set_max_characters, set_max_currency, set_max_sidekicks`
     Proceeding . . .
     <Response [200]>
+```    
 ******************************************
 MIT License
 
